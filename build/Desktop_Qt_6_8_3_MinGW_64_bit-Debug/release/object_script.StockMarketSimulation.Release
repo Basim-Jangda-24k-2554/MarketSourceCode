@@ -1,0 +1,12 @@
+release/PharmaceuticalStock.o
+release/TechnologyStock.o
+release/automotivestock.o
+release/chartwindow.o
+release/main.o
+release/mainwindow.o
+release/stock.o
+release/stockmarket.o
+release/textilestock.o
+release/user.o
+release/moc_chartwindow.o
+release/moc_mainwindow.o

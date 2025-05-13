@@ -1,0 +1,12 @@
+debug/PharmaceuticalStock.o
+debug/TechnologyStock.o
+debug/automotivestock.o
+debug/chartwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/stock.o
+debug/stockmarket.o
+debug/textilestock.o
+debug/user.o
+debug/moc_chartwindow.o
+debug/moc_mainwindow.o
